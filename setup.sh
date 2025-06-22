@@ -23,3 +23,7 @@ apt install -y \
     tmux \
     firefox \
     git
+
+#move dotfiles
+cd /home/tim
+mv init.lua ~/.config/nvim/init.lua
