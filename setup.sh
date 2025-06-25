@@ -20,6 +20,7 @@ apt install -y \
 #Install key tools
 apt install -y \
     neovim \
+    alacritty \
     tmux \
     firefox \
     git
